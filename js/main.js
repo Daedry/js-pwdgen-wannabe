@@ -11,7 +11,7 @@ console.log(lastName);
 //Chiedi all'utente il suo colore preferito
 
 const favColor = prompt('Qual è il tuo colore preferito?');
-console.log(FavColro);
+console.log(favColor);
 
 //Risultato delle info utente 
 //aggiunta di un numero a fianco di info-utente
