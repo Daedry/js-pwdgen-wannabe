@@ -16,5 +16,5 @@ console.log(favColor);
 //Risultato delle info utente 
 //aggiunta di un numero a fianco di info-utente
 
-document.getElementById('info-utente').innerHTML = `${selName+lastName+favColor}22`
+document.getElementById('info-utente').innerHTML = `${firstName + lastName + favColor}22`
 
